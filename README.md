@@ -3,7 +3,7 @@ Class project to apply extraction, transformation, and loading of multiple data 
 
 
 We used 2 different datasets in the category of Movies, which were found in Data.world. 
-We based our Query analysis on 2 questions for Movies from the year 1989 - 2019:
+We based our Query analysis on 2 questions for Movies from the years 1989 - 2019:
 
 1) Query on movies with the most earnings
 
